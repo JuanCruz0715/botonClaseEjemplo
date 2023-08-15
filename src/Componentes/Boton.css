@@ -1,0 +1,19 @@
+.Boton {
+    border: 5px solid rgb(248, 4, 16);
+    width: 100px;
+    height: 30px;
+    margin: 10px 10px 10px 600px;
+    border-radius: 10%;
+    background-color: rgb(13, 14, 14);
+    color: rgb(187, 194, 152);
+    cursor: pointer;
+    text-align: center;
+    caret-color: blue
+    
+  }
+  
+  .Boton:hover {
+    background-color: #2600fc;
+    transform: scale(1.05);
+  }
+ 
